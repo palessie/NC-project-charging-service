@@ -23,7 +23,7 @@ export class ProductsService {
       return this.http.delete<void>("/api/fproducts/" + productId)
   }
 
-  getPostsByPage(page: number, quantity: number): Observable<Products[]> {
+  getProductsByPage(page: number, quantity: number): Observable<Products[]> {
     return this.http.get<Products[]>('/api/fproducts/page/' + page + "?qt=" + quantity);
   }
 

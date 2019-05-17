@@ -42,7 +42,7 @@ export class ProductsComponent implements OnInit {
 
   public getProductsByPage(page: number): void {
 
-    this.subscriptions.push(this.productsService.getPostsByPage(page, this.quantity).subscribe(product => {
+    this.subscriptions.push(this.productsService.getProductsByPage(page, this.quantity).subscribe(product => {
       this.products = product as Products[];
 
     }))

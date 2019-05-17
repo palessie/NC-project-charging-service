@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b30de487-6360-4b25-8b02-c940147553b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/controller/ProductsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/controller/SubscriptionsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/controller/TransactionsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/controller/UsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/controller/WalletController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/login-page/login-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/main-page/main-page.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/be/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/be/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/be/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/be/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fapi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fapi/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/controllers/SimpleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fapi/src/main/java/com/nc/edu/fapi/models/SimpleObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/proxy.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/proxy.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/admin-page/admin-page.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/fapi/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/admin-page/admin-page.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/admin-page/admin-page.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/admin-page/admin-page.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/start-page/start-page.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/models/subscriptionChange.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/start-page/start-page.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/start-page/start-page.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/login-page/login-page.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/start-page/start-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/login-page/login-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/user-page/user-page.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/user-page/user-page.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/user-page/user-page.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/user-page/user-page.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -196,8 +165,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/registration-page/registration-page.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="476">
+              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -667,7 +636,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558106699904" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558107845995" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -788,12 +757,12 @@
       <workItem from="1557397995747" duration="14698000" />
       <workItem from="1557488897506" duration="3109000" />
       <workItem from="1557576493957" duration="26946000" />
-      <workItem from="1558011207801" duration="33102000" />
+      <workItem from="1558011207801" duration="33442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237699000" />
+    <option name="totallyTimeSpent" value="238039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1220,8 +1189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/registration-page/registration-page.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="476">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
