@@ -17,7 +17,7 @@ export class CreateProductComponent implements OnInit {
   private subscriptions: Subscription[] = [];
   public newProduct: Products = new Products();
 
-  constructor(private postService: ProductsService,
+  constructor(private productsService: ProductsService,
               private authService: AuthService, private router: Router,) { }
 
   ngOnInit() {
@@ -28,7 +28,7 @@ export class CreateProductComponent implements OnInit {
   }
 
   public _addProduct(): void {
-    this.subscriptions.push(this.postService.saveProduct(this.newProduct).subscribe(() => {
+    this.subscriptions.push(this.productsService.saveProduct(this.newProduct).subscribe(() => {
     }))
   }
 

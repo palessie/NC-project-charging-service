@@ -15,9 +15,9 @@ export class ProductComponent implements OnInit {
 
   public products: Products;
   private subscriptions: Subscription[] = [];
-  public post_id: number;
+  public product_id: number;
 
-  constructor(private postService: ProductsService, private route: ActivatedRoute, private tokeStorage: TokenStorage,
+  constructor(private productsService: ProductsService, private route: ActivatedRoute, private tokeStorage: TokenStorage,
                private authService: AuthService,) { }
 
   ngOnInit() {
@@ -30,7 +30,7 @@ export class ProductComponent implements OnInit {
 
   private loadProduct(productId: string): void {
 
-    this.subscriptions.push(this.postService.getProduct(productId).subscribe(product => {
+    this.subscriptions.push(this.productsService.getProduct(productId).subscribe(product => {
       this.products = product as Products;
       console.log("Product: " + this.products);
 
@@ -39,7 +39,7 @@ export class ProductComponent implements OnInit {
 
   public _deleteProduct(postId: string): void {
 
-    this.subscriptions.push(this.postService.deleteProduct(postId).subscribe(() => {
+    this.subscriptions.push(this.productsService.deleteProduct(postId).subscribe(() => {
     }))
   }
 
