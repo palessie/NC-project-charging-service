@@ -1,0 +1,29 @@
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding:130px 480px 40px;
+
+  background-color: #f5f5f5;
+}
+html, body {
+  height: 100%;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+.p2{
+  padding-top: 10px ;
+
+}
+.l1{
+  padding-top: 10px;
+}
+input {
+margin-top: 10px;
+}
+
+
